@@ -1,0 +1,3 @@
+#ID:Produto:Estoque
+1:Café Pele:5
+2:Creme De Pato:10
